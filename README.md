@@ -5,23 +5,7 @@
     <p></p>
 </div>
 
-<div align="center">
-    <a href="https://github.com/ControlNet/MARLIN/network/members">
-        <img src="https://img.shields.io/github/forks/ControlNet/MARLIN?style=flat-square">
-    </a>
-    <a href="https://github.com/ControlNet/MARLIN/stargazers">
-        <img src="https://img.shields.io/github/stars/ControlNet/MARLIN?style=flat-square">
-    </a>
-    <a href="https://github.com/ControlNet/MARLIN/issues">
-        <img src="https://img.shields.io/github/issues/ControlNet/MARLIN?style=flat-square">
-    </a>
-    <a href="https://github.com/ControlNet/MARLIN/blob/master/LICENSE">
-        <img src="https://img.shields.io/badge/license-CC%20BY--NC%204.0-97ca00?style=flat-square">
-    </a>
-    <a href="https://arxiv.org/abs/2211.06627">
-        <img src="https://img.shields.io/badge/arXiv-2211.06627-b31b1b.svg?style=flat-square">
-    </a>
-</div>
+
 
 <div align="center">    
     <a href="https://pypi.org/project/marlin-pytorch/">
